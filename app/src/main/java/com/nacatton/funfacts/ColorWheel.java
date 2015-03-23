@@ -16,7 +16,10 @@ public class ColorWheel {
             "#f092b0", // pink
             "#b7c0c7", // light gray
             "#33ff00",  // Pure (or mostly pure) lime green
-            "#cc6600" // Strong Orange
+            "#cc6600", // Strong Orange
+            "#ccffff", // pale blue
+            "#ffccff" // light pink
+
 
 
     };
